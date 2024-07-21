@@ -1,0 +1,15 @@
+{
+  "name": "guitar-shop-backend",
+  "version": "1.0.0",
+  "description": "Guitar Shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thkhoa9/guitar-shop-backend.git"
+  },
+  "author": "Khoa",
+  "license": "ISC"
+}

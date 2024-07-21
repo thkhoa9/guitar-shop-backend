@@ -11,5 +11,10 @@
     "url": "https://github.com/thkhoa9/guitar-shop-backend.git"
   },
   "author": "Khoa",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
 }
